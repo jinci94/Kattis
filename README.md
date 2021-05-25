@@ -2,90 +2,90 @@
 
 Solutions to the [Kattis archives](https://open.kattis.com/).
 
-## Problems
+### Problems [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems)
 
-| Problem [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems) | Languages | Difficulty |
+| Problem | Languages | Difficulty |
 |---|---|---|
-| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Python 3]() | 1.2 |
-| [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Python 3]() | 1.2 |
-| [Pot](https://open.kattis.com/problems/pot) | [Python 3]() | 1.2 |
-| [Hello World!](https://open.kattis.com/problems/hello) | [Python 3]() | 1.2 |
-| [Autori](https://open.kattis.com/problems/autori) | [Python 3]() | 1.2 |
-| [Tarifa](https://open.kattis.com/problems/tarifa) | [Python 3]() | 1.3 |
-| [Take Two Stones](https://open.kattis.com/problems/twostones) | [Python 3]() | 1.3 |
-| [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Python 3]() | 1.3 |
-| [Stopwatch](https://open.kattis.com/problems/stopwatch) | [Python 3]() | 1.3 |
-| [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python 3]() | 1.3 |
-| [Sibice](https://open.kattis.com/problems/sibice) | [Python 3]() | 1.3 |
-| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python 3]() | 1.3 |
-| [R2](https://open.kattis.com/problems/r2) | [Python 3]() | 1.3 |
-| [Planina](https://open.kattis.com/problems/planina) | [Python 3]() | 1.3 |
-| [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Python 3]() | 1.3 |
-| [Pet](https://open.kattis.com/problems/pet) | [Python 3]() | 1.3 |
-| [Oddities](https://open.kattis.com/problems/oddities) | [Python 3]() | 1.3 |
-| [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Python 3]() | 1.3 |
-| [Modulo](https://open.kattis.com/problems/modulo) | [Python 3]() | 1.3 |
-| [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python 3]() | 1.3 |
-| [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [Python 3]() | 1.3 |
-| [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Python 3]() | 1.3 |
-| [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Python 3]() | 1.3 |
-| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Python 3]() | 1.3 |
-| [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Python 3]() | 1.3 |
-| [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python 3]() | 1.3 |
-| [Heart Rate](https://open.kattis.com/problems/heartrate) | [Python 3]() | 1.3 |
-| [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Python 3]() | 1.3 |
-| [Greetings!](https://open.kattis.com/problems/greetings2) | [Python 3]() | 1.3 |
-| [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Python 3]() | 1.3 |
-| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Python 3]() | 1.3 |
-| [Filip](https://open.kattis.com/problems/filip) | [Python 3]() | 1.3 |
-| [Faktor](https://open.kattis.com/problems/faktor) | [Python 3]() | 1.3 |
-| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python 3]() | 1.3 |
-| [Dice Cup](https://open.kattis.com/problems/dicecup) | [Python 3]() | 1.3 |
-| [Cold-puter Science](https://open.kattis.com/problems/cold) | [Python 3]() | 1.3 |
-| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python 3]() | 1.3 |
-| [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python 3]() | 1.3 |
-| [Bijele](https://open.kattis.com/problems/bijele) | [Python 3]() | 1.3 |
-| [Bela](https://open.kattis.com/problems/bela) | [Python 3]() | 1.3 |
-| [Batter Up](https://open.kattis.com/problems/batterup) | [Python 3]() | 1.3 |
-| [Avion](https://open.kattis.com/problems/avion) | [Python 3]() | 1.3 |
-| [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Python 3]() | 1.3 |
-| [Homework](https://open.kattis.com/problems/heimavinna) | [Python 3]() | 1.1 - 1.4 |
-| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Python 3]() | 1.2 - 1.4 |
-| [Zamka](https://open.kattis.com/problems/zamka) | [Python 3]() | 1.4 |
-| [Trik](https://open.kattis.com/problems/trik) | [Python 3]() | 1.4 |
-| [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Python 3]() | 1.4 |
-| [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Python 3]() | 1.4 |
-| [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [Python 3]() | 1.4 |
-| [Spavanac](https://open.kattis.com/problems/spavanac) | [Python 3]() | 1.4 |
-| [Simon Says](https://open.kattis.com/problems/simonsays) | [Python 3]() | 1.4 |
-| [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Python 3]() | 1.4 |
-| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Python 3]() | 1.4 |
-| [Railroad](https://open.kattis.com/problems/railroad2) | [Python 3]() | 1.4 |
-| [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Python 3]() | 1.4 |
-| [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python 3]() | 1.4 |
-| [Parking](https://open.kattis.com/problems/parking2) | [Python 3]() | 1.4 |
-| [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [Python 3]() | 1.4 |
-| [Number Fun](https://open.kattis.com/problems/numberfun) | [Python 3]() | 1.4 |
-| [No Duplicates](https://open.kattis.com/problems/nodup) | [Python 3]() | 1.4 |
-| [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Python 3]() | 1.4 |
-| [Ladder](https://open.kattis.com/problems/ladder) | [Python 3]() | 1.4 |
-| [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Python 3]() | 1.4 |
-| [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python 3]() | 1.4 |
-| [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python 3]() | 1.4 |
-| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python 3]() | 1.4 |
-| [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python 3]() | 1.4 |
-| [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [Python 3]() | 1.4 |
-| [Final Exam](https://open.kattis.com/problems/finalexam2) | [Python 3]() | 1.4 |
-| [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Python 3]() | 1.4 |
-| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Python 3]() | 1.4 |
-| [DRM Messages](https://open.kattis.com/problems/drmmessages) | [Python 3]() | 1.4 |
-| [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Python 3]() | 1.4 |
-| [Datum](https://open.kattis.com/problems/datum) | [Python 3]() | 1.4 |
-| [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Python 3]() | 1.4 |
-| [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Python 3]() | 1.4 |
-| [Boat Parts](https://open.kattis.com/problems/boatparts) | [Python 3]() | 1.4 |
-| [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [Python 3]() | 1.4 |
-| [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Python 3]() | 1.4 |
+| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/qaly.py) | 1.2 |
+| [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/quadrant.py) | 1.2 |
+| [Pot](https://open.kattis.com/problems/pot) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/pot.py) | 1.2 |
+| [Hello World!](https://open.kattis.com/problems/hello) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/helloworld.py) | 1.2 |
+| [Autori](https://open.kattis.com/problems/autori) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/autori.py) | 1.2 |
+| [Tarifa](https://open.kattis.com/problems/tarifa) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/tarifa.py) | 1.3 |
+| [Take Two Stones](https://open.kattis.com/problems/twostones) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/twostones.py) | 1.3 |
+| [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/timeloop.py) | 1.3 |
+| [Stopwatch](https://open.kattis.com/problems/stopwatch) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/stopwatch.py) | 1.3 |
+| [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/carrots.py) | 1.3 |
+| [Sibice](https://open.kattis.com/problems/sibice) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/sibice.py) | 1.3 |
+| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/shatteredcake.py) | 1.3 |
+| [R2](https://open.kattis.com/problems/r2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/r2.py) | 1.3 |
+| [Planina](https://open.kattis.com/problems/planina) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/planina.py) | 1.3 |
+| [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/pieceofcake2.py) | 1.3 |
+| [Pet](https://open.kattis.com/problems/pet) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/pet.py) | 1.3 |
+| [Oddities](https://open.kattis.com/problems/oddities) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/oddities.py) | 1.3 |
+| [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/nastyhacks.py) | 1.3 |
+| [Modulo](https://open.kattis.com/problems/modulo) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/modulo.py) | 1.3 |
+| [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/lastfactorialdigit.py) | 1.3 |
+| [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/laptopsticker.py) | 1.3 |
+| [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/jumbojavelin.py) | 1.3 |
+| [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/jackolanternjuxtaposition.py) | 1.3 |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/isithalloween.py) | 1.3 |
+| [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/icpcawards.py) | 1.3 |
+| [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/hissingmicrophone.py) | 1.3 |
+| [Heart Rate](https://open.kattis.com/problems/heartrate) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/heartrate.py) | 1.3 |
+| [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/harshadnumbers.py) | 1.3 |
+| [Greetings!](https://open.kattis.com/problems/greetings2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/greetings2.py) | 1.3 |
+| [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/grassseed.py) | 1.3 |
+| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/fizzbuzz.py) | 1.3 |
+| [Filip](https://open.kattis.com/problems/filip) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/filip.py) | 1.3 |
+| [Faktor](https://open.kattis.com/problems/faktor) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/faktor.py) | 1.3 |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/electricaloutlets.py) | 1.3 |
+| [Dice Cup](https://open.kattis.com/problems/dicecup) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/dicecup.py) | 1.3 |
+| [Cold-puter Science](https://open.kattis.com/problems/cold) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/cold.py) | 1.3 |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/chanukah.py) | 1.3 |
+| [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/cetvrta.py) | 1.3 |
+| [Bijele](https://open.kattis.com/problems/bijele) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bijele.py) | 1.3 |
+| [Bela](https://open.kattis.com/problems/bela) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bela.py) | 1.3 |
+| [Batter Up](https://open.kattis.com/problems/batterup) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/batterup.py) | 1.3 |
+| [Avion](https://open.kattis.com/problems/avion) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/avion.py) | 1.3 |
+| [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/alphabetspam.py) | 1.3 |
+| [Homework](https://open.kattis.com/problems/heimavinna) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/heimavinna.py) | 1.1 - 1.4 |
+| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/ofugsnuid.py) | 1.2 - 1.4 |
+| [Zamka](https://open.kattis.com/problems/zamka) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/zamka.py) | 1.4 |
+| [Trik](https://open.kattis.com/problems/trik) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/trik.py) | 1.4 |
+| [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/transitwoes.py) | 1.4 |
+| [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/humancannonball2.py) | 1.4 |
+| [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/zanzibar.py) | 1.4 |
+| [Spavanac](https://open.kattis.com/problems/spavanac) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/spavanac.py) | 1.4 |
+| [Simon Says](https://open.kattis.com/problems/simonsays) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/simonsays.py) | 1.4 |
+| [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/sevenwonders.py) | 1.4 |
+| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/reversebinary.py) | 1.4 |
+| [Railroad](https://open.kattis.com/problems/railroad2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/railroad2.py) | 1.4 |
+| [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/quickestimate.py) | 1.4 |
+| [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/provincesandgold.py) | 1.4 |
+| [Parking](https://open.kattis.com/problems/parking2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/parking2.py) | 1.4 |
+| [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/oddmanout.py) | 1.4 |
+| [Number Fun](https://open.kattis.com/problems/numberfun) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/numberfun.py) | 1.4 |
+| [No Duplicates](https://open.kattis.com/problems/nodup) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/nodup.py) | 1.4 |
+| [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/licensetolaunch.py) | 1.4 |
+| [Ladder](https://open.kattis.com/problems/ladder) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/ladder.py) | 1.4 |
+| [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/judgingmoose.py) | 1.4 |
+| [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/jobexpenses.py) | 1.4 |
+| [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/janitortroubles.py) | 1.4 |
+| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/everywhere.py) | 1.4 |
+| [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/helpaphd.py) | 1.4 |
+| [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/forcedchoice.py) | 1.4 |
+| [Final Exam](https://open.kattis.com/problems/finalexam2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/finalexam2.py) | 1.4 |
+| [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/estimatingtheareaofacircle.py) | 1.4 |
+| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/encodedmessage.py) | 1.4 |
+| [DRM Messages](https://open.kattis.com/problems/drmmessages) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/drmmessages.py) | 1.4 |
+| [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/detaileddifferences.py) | 1.4 |
+| [Datum](https://open.kattis.com/problems/datum) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/datum.py) | 1.4 |
+| [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/cudoviste.py) | 1.4 |
+| [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/conundrum.py) | 1.4 |
+| [Boat Parts](https://open.kattis.com/problems/boatparts) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/boatparts.py) | 1.4 |
+| [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/beavergnaw.py) | 1.4 |
+| [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/apaxiaaans.py) | 1.4 |
 | [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [Python 3]() | 1.5 |
 | [Tetration](https://open.kattis.com/problems/tetration) | [Python 3]() | 1.5 |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [Python 3]() | 1.5 |
