@@ -173,36 +173,36 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/fbiuniversal.py) | 2.1 |
 | [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/driversdilemma.py) | 2.1 |
 | [Dirty Driving](https://open.kattis.com/problems/dirtydriving) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/dirtydriving.py) | 2.1 |
-| [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Python 3]() | 2.2 |
-| [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Python 3]() | 2.2 |
-| [Sanic](https://open.kattis.com/problems/sanic) | [Python 3]() | 2.2 |
-| [Fast Food Prizes](https://open.kattis.com/problems/fastfood) | [Python 3]() | 2.2 |
-| [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone) | [Python 3]() | 2.2 |
-| [Cracking RSA](https://open.kattis.com/problems/crackingrsa) | [Python 3]() | 2.2 |
-| [Best Compression Ever](https://open.kattis.com/problems/bestcompression) | [Python 3]() | 2.2 |
-| [Prime Path](https://open.kattis.com/problems/primepath) | [Python 3]() | 2.3 |
-| [Odds of Mia](https://open.kattis.com/problems/odds) | [Python 3]() | 2.3 |
-| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2) | [Python 3]() | 2.3 |
-| [Equal Sums (Easy)](https://open.kattis.com/problems/equalsumseasy) | [Python 3]() | 2.3 |
-| [Compositions](https://open.kattis.com/problems/compositions) | [Python 3]() | 2.3 |
-| [Plotting Polynomials](https://open.kattis.com/problems/plot) | [Python 3]() | 2.4 |
-| [Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) | [Python 3]() | 2.4 |
-| [H to O](https://open.kattis.com/problems/htoo) | [Python 3]() | 2.4 |
-| [Cookie Cutters](https://open.kattis.com/problems/cookiecutter) | [Python 3]() | 2.4 |
-| [Cardboard Container](https://open.kattis.com/problems/cardboardcontainer) | [Python 3]() | 2.4 |
-| [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [Python 3]() | 2.5 |
-| [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Python 3]() | 2.6 |
-| [Running Steps](https://open.kattis.com/problems/runningsteps) | [Python 3]() | 2.7 |
-| [Chess](https://open.kattis.com/problems/chess) | [Python 3]() | 2.8 |
-| [Zyxab](https://open.kattis.com/problems/zyxab) | [Python 3]() | 2.9 |
-| [The Dragon of Loowater](https://open.kattis.com/problems/loowater) | [Python 3]() | 3.0 |
-| [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Python 3]() | 3.0 |
-| [Path Tracing](https://open.kattis.com/problems/pathtracing) | [Python 3]() | 3.2 |
-| [Dominoes 2](https://open.kattis.com/problems/dominoes2) | [Python 3]() | 3.2 |
-| [Candy Division](https://open.kattis.com/problems/candydivision) | [Python 3]() | 3.2 |
-| [A1 Paper](https://open.kattis.com/problems/a1paper) | [Python 3]() | 3.6 |
-| [Supercomputer](https://open.kattis.com/problems/supercomputer) | [Python 3]() | 3.7 |
-| [Job Switching](https://open.kattis.com/problems/jobbyte) | [Python 3]() | 4.2 |
-| [Ones](https://open.kattis.com/problems/ones) | [Python 3]() | 4.3 |
-| [CD](https://open.kattis.com/problems/cd) | [Python 3]() | 4.9 |
-| [Three Digits](https://open.kattis.com/problems/threedigits) | [Python 3]() | 6.0 |
+| [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/thebackslashproblem.py) | 2.2 |
+| [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/snapperhard.py) | 2.2 |
+| [Sanic](https://open.kattis.com/problems/sanic) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/sanic.py) | 2.2 |
+| [Fast Food Prizes](https://open.kattis.com/problems/fastfood) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/fastfood.py) | 2.2 |
+| [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/saxophone.py) | 2.2 |
+| [Cracking RSA](https://open.kattis.com/problems/crackingrsa) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/crackingrsa.py) | 2.2 |
+| [Best Compression Ever](https://open.kattis.com/problems/bestcompression) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bestcompression.py) | 2.2 |
+| [Prime Path](https://open.kattis.com/problems/primepath) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/primepath.py) | 2.3 |
+| [Odds of Mia](https://open.kattis.com/problems/odds) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/odds.py) | 2.3 |
+| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/fizzbuzz2.py) | 2.3 |
+| [Equal Sums (Easy)](https://open.kattis.com/problems/equalsumseasy) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/equalsumseasy.py) | 2.3 |
+| [Compositions](https://open.kattis.com/problems/compositions) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/compositions.py) | 2.3 |
+| [Plotting Polynomials](https://open.kattis.com/problems/plot) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/plot.py) | 2.4 |
+| [Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/juryjeopardy.py) | 2.4 |
+| [H to O](https://open.kattis.com/problems/htoo) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/htoo.py) | 2.4 |
+| [Cookie Cutters](https://open.kattis.com/problems/cookiecutter) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/cookiecutter.py) | 2.4 |
+| [Cardboard Container](https://open.kattis.com/problems/cardboardcontainer) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/cardboardcontainer.py) | 2.4 |
+| [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/peasoup.py) | 2.5 |
+| [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/snappereasy.py) | 2.6 |
+| [Running Steps](https://open.kattis.com/problems/runningsteps) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/runningsteps.py) | 2.7 |
+| [Chess](https://open.kattis.com/problems/chess) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/chess.py) | 2.8 |
+| [Zyxab](https://open.kattis.com/problems/zyxab) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/zyxab.py) | 2.9 |
+| [The Dragon of Loowater](https://open.kattis.com/problems/loowater) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/loowater.py) | 3.0 |
+| [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/guessinggame.py) | 3.0 |
+| [Path Tracing](https://open.kattis.com/problems/pathtracing) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/pathtracing.py) | 3.2 |
+| [Dominoes 2](https://open.kattis.com/problems/dominoes2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/dominoes2.py) | 3.2 |
+| [Candy Division](https://open.kattis.com/problems/candydivision) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/candydivision.py) | 3.2 |
+| [A1 Paper](https://open.kattis.com/problems/a1paper) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/a1paper.py) | 3.6 |
+| [Supercomputer](https://open.kattis.com/problems/supercomputer) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/supercomputer.py) | 3.7 |
+| [Job Switching](https://open.kattis.com/problems/jobbyte) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/jobbyte.py) | 4.2 |
+| [Ones](https://open.kattis.com/problems/ones) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/ones.py) | 4.3 |
+| [CD](https://open.kattis.com/problems/cd) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/cd.py) | 4.9 |
+| [Three Digits](https://open.kattis.com/problems/threedigits) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/threedigits.py) | 6.0 |
