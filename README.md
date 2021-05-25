@@ -137,42 +137,42 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Completing the Square](https://open.kattis.com/problems/completingthesquare) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/completingthesquare.py) | 1.8 |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bookingaroom.py) | 1.8 |
 | [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/baconeggsandspam.py) | 1.8 |
-| [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [Python 3]() | 1.9 |
-| [Red Rover](https://open.kattis.com/problems/redrover) | [Python 3]() | 1.9 |
-| [Peg](https://open.kattis.com/problems/peg) | [Python 3]() | 1.9 |
-| [Okviri](https://open.kattis.com/problems/okviri) | [Python 3]() | 1.9 |
-| [Oktalni](https://open.kattis.com/problems/oktalni) | [Python 3]() | 1.9 |
-| [Math Homework](https://open.kattis.com/problems/mathhomework) | [Python 3]() | 1.9 |
-| [Mars Window](https://open.kattis.com/problems/marswindow) | [Python 3]() | 1.9 |
-| [Imperial Measurement](https://open.kattis.com/problems/measurement) | [Python 3]() | 1.9 |
-| [Hot Hike](https://open.kattis.com/problems/hothike) | [Python 3]() | 1.9 |
-| [GlitchBot](https://open.kattis.com/problems/glitchbot) | [Python 3]() | 1.9 |
-| [Fun House](https://open.kattis.com/problems/funhouse) | [Python 3]() | 1.9 |
-| [Costume Contest](https://open.kattis.com/problems/costumecontest) | [Python 3]() | 1.9 |
-| [Boss Battle](https://open.kattis.com/problems/bossbattle) | [Python 3]() | 1.9 |
-| [Yoda](https://open.kattis.com/problems/yoda) | [Python 3]() | 2.0 |
-| [Watchdog](https://open.kattis.com/problems/watchdog) | [Python 3]() | 2.0 |
-| [Warehouse](https://open.kattis.com/problems/warehouse) | [Python 3]() | 2.0 |
-| [Triangle Ornaments](https://open.kattis.com/problems/triangleornaments) | [Python 3]() | 2.0 |
-| [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [Python 3]() | 2.0 |
-| [Social running](https://open.kattis.com/problems/socialrunning) | [Python 3]() | 2.0 |
-| [Printing Costs](https://open.kattis.com/problems/printingcosts) | [Python 3]() | 2.0 |
-| [Okvir](https://open.kattis.com/problems/okvir) | [Python 3]() | 2.0 |
-| [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Python 3]() | 2.0 |
-| [NOP](https://open.kattis.com/problems/nop) | [Python 3]() | 2.0 |
-| [Misa](https://open.kattis.com/problems/misa) | [Python 3]() | 2.0 |
-| [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | [Python 3]() | 2.0 |
-| [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [Python 3]() | 2.1 |
-| [Tram](https://open.kattis.com/problems/tram) | [Python 3]() | 2.1 |
-| [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | [Python 3]() | 2.1 |
-| [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Python 3]() | 2.1 |
-| [Primary Register](https://open.kattis.com/problems/register) | [Python 3]() | 2.1 |
-| [Lawn Mower](https://open.kattis.com/problems/lawnmower) | [Python 3]() | 2.1 |
-| [Jumbled Communication](https://open.kattis.com/problems/communication) | [Python 3]() | 2.1 |
-| [Growling Gears](https://open.kattis.com/problems/growlinggears) | [Python 3]() | 2.1 |
-| [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [Python 3]() | 2.1 |
-| [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [Python 3]() | 2.1 |
-| [Dirty Driving](https://open.kattis.com/problems/dirtydriving) | [Python 3]() | 2.1 |
+| [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/touchscreenkeyboard.py) | 1.9 |
+| [Red Rover](https://open.kattis.com/problems/redrover) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/redrover.py) | 1.9 |
+| [Peg](https://open.kattis.com/problems/peg) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/peg.py) | 1.9 |
+| [Okviri](https://open.kattis.com/problems/okviri) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/okviri.py) | 1.9 |
+| [Oktalni](https://open.kattis.com/problems/oktalni) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/oktalni.py) | 1.9 |
+| [Math Homework](https://open.kattis.com/problems/mathhomework) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/mathhomework.py) | 1.9 |
+| [Mars Window](https://open.kattis.com/problems/marswindow) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/marswindow.py) | 1.9 |
+| [Imperial Measurement](https://open.kattis.com/problems/measurement) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/measurements.py) | 1.9 |
+| [Hot Hike](https://open.kattis.com/problems/hothike) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/hothike.py) | 1.9 |
+| [GlitchBot](https://open.kattis.com/problems/glitchbot) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/glitchbot.py) | 1.9 |
+| [Fun House](https://open.kattis.com/problems/funhouse) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/funhouse.py) | 1.9 |
+| [Costume Contest](https://open.kattis.com/problems/costumecontest) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/costumecontest.py) | 1.9 |
+| [Boss Battle](https://open.kattis.com/problems/bossbattle) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bossbattle.py) | 1.9 |
+| [Yoda](https://open.kattis.com/problems/yoda) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/yoda.py) | 2.0 |
+| [Watchdog](https://open.kattis.com/problems/watchdog) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/watchdog.py) | 2.0 |
+| [Warehouse](https://open.kattis.com/problems/warehouse) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/warehouse.py) | 2.0 |
+| [Triangle Ornaments](https://open.kattis.com/problems/triangleornaments) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/triangleornaments.py) | 2.0 |
+| [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/trainpassengers.py) | 2.0 |
+| [Social running](https://open.kattis.com/problems/socialrunning) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/socialrunning.py) | 2.0 |
+| [Printing Costs](https://open.kattis.com/problems/printingcosts) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/printingcosts.py) | 2.0 |
+| [Okvir](https://open.kattis.com/problems/okvir) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/okvir.py) | 2.0 |
+| [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/numbertree.py) | 2.0 |
+| [NOP](https://open.kattis.com/problems/nop) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/nop.py) | 2.0 |
+| [Misa](https://open.kattis.com/problems/misa) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/misa.py) | 2.0 |
+| [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bestrelayteam.py) | 2.0 |
+| [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/whatdoesthefoxsay.py) | 2.1 |
+| [Tram](https://open.kattis.com/problems/tram) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/tram.py) | 2.1 |
+| [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/temperatureconfusion.py) | 2.1 |
+| [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/savingdaylight.py) | 2.1 |
+| [Primary Register](https://open.kattis.com/problems/register) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/register.py) | 2.1 |
+| [Lawn Mower](https://open.kattis.com/problems/lawnmower) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/lawnmower.py) | 2.1 |
+| [Jumbled Communication](https://open.kattis.com/problems/communication) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/communication.py) | 2.1 |
+| [Growling Gears](https://open.kattis.com/problems/growlinggears) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/growlinggears.py) | 2.1 |
+| [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/fbiuniversal.py) | 2.1 |
+| [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/driversdilemma.py) | 2.1 |
+| [Dirty Driving](https://open.kattis.com/problems/dirtydriving) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/dirtydriving.py) | 2.1 |
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [Python 3]() | 2.2 |
 | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Python 3]() | 2.2 |
 | [Sanic](https://open.kattis.com/problems/sanic) | [Python 3]() | 2.2 |
