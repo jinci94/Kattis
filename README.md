@@ -150,6 +150,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Fun House](https://open.kattis.com/problems/funhouse) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/funhouse.py) | 1.9 |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/costumecontest.py) | 1.9 |
 | [Boss Battle](https://open.kattis.com/problems/bossbattle) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bossbattle.py) | 1.9 |
+| [Above Average](https://open.kattis.com/problems/aboveaverage) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/aboveaverage.py) | 1.9 |
 | [Yoda](https://open.kattis.com/problems/yoda) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/yoda.py) | 2.0 |
 | [Watchdog](https://open.kattis.com/problems/watchdog) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/watchdog.py) | 2.0 |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/warehouse.py) | 2.0 |
@@ -180,6 +181,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/saxophone.py) | 2.2 |
 | [Cracking RSA](https://open.kattis.com/problems/crackingrsa) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/crackingrsa.py) | 2.2 |
 | [Best Compression Ever](https://open.kattis.com/problems/bestcompression) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/bestcompression.py) | 2.2 |
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/3dprinter.py) | 2.2 |
 | [Prime Path](https://open.kattis.com/problems/primepath) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/primepath.py) | 2.3 |
 | [Odds of Mia](https://open.kattis.com/problems/odds) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/odds.py) | 2.3 |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/fizzbuzz2.py) | 2.3 |
@@ -194,7 +196,9 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/snappereasy.py) | 2.6 |
 | [Running Steps](https://open.kattis.com/problems/runningsteps) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/runningsteps.py) | 2.7 |
 | [Chess](https://open.kattis.com/problems/chess) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/chess.py) | 2.8 |
+| [2048](https://open.kattis.com/problems/2048) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/2048.py) | 2.8 |
 | [Zyxab](https://open.kattis.com/problems/zyxab) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/zyxab.py) | 2.9 |
+| [4 thought](https://open.kattis.com/problems/4thought) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/4thought.py) | 2.9 |
 | [The Dragon of Loowater](https://open.kattis.com/problems/loowater) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/loowater.py) | 3.0 |
 | [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/guessinggame.py) | 3.0 |
 | [Path Tracing](https://open.kattis.com/problems/pathtracing) | [Python 3](https://github.com/jinci94/Kattis/blob/main/code/pathtracing.py) | 3.2 |
